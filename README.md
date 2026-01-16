@@ -124,6 +124,7 @@ Fully interactive web dashboard.
 
 ## How to Run the Dashboard
 pip install streamlit pandas matplotlib seaborn
+
 streamlit run app.py
 
 ## Project Structure
